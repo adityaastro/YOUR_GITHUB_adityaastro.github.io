@@ -1,0 +1,63 @@
+body
+{
+    color:white;
+    background:rgb(30, 31, 30);
+    background-image: url("abstract 2.jpg");
+    margin:0;
+}
+
+
+body ul li
+{
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+a:hover
+{
+    text-decoration: none;
+}
+
+header
+{
+    
+    background-position: center;
+    background-size: 100%;
+    padding: 2.5%;
+    text-align: center;
+}
+
+header li
+{
+    color:white;
+    font-size: 28px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+    list-style-type: none;
+    padding-left: 20px;
+    text-transform:uppercase;
+}
+
+body h2
+{
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+footer
+{
+    position: absolute;
+    padding: 1px;
+    text-align: center;
+    color: white;
+    background: black;
+    height: 60px;  
+    bottom: 0;
+}
